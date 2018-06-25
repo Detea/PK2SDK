@@ -21,6 +21,6 @@ A collection of Java classes will be provided soon, by myself (Deta), but if you
 
 ---
 
-This project takes it's information from the officially released source code ([Found here])(http://pistegamez.proboards.com/thread/543/level-editor-source-codes-available) and documents it. None of the information was reversed engineered or obtained in other ways.
+This project takes it's information from the officially released source code ([Found here](http://pistegamez.proboards.com/thread/543/level-editor-source-codes-available)) and documents it. None of the information was reversed engineered or obtained in other ways.
 
 All rights to Pekka Kana 2 belong to Janne Kivilahti. (http://pistegamez.net/)
