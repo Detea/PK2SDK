@@ -13,7 +13,7 @@ E.g.:
   * PK2 Graphics
   
 
-The original source port is also provided in the "PK2Source" folder, as it was released by the original creator.
+The original source code is also provided under the "PK2Source" folder, as it was released by the original creator.
   
   
 The information will be found on this projects wiki (Note: include link) and in the "doc" folder, as PDF files to download for offline use.
