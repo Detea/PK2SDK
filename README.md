@@ -12,8 +12,11 @@ E.g.:
   * PK2 Save File
   * PK2 Graphics
   
+
+The original source port is also provided in the "PK2Source" folder, as it was released by the original creator.
   
-The information will be found on this projects wiki (Note: include link) and in the "documentation" folder, as PDF files to download for offline use.
+  
+The information will be found on this projects wiki (Note: include link) and in the "doc" folder, as PDF files to download for offline use.
 
 ---
 
