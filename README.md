@@ -22,6 +22,8 @@ The information will be found on this projects wiki (Note: include link) and in 
 
 A collection of Java classes will be provided soon, by myself (Deta), but if you know any other programming language(s) you are very welcome to create libs in these.
 
+You can also help compiling the information. Use the file "PK2Map.pdf" as a template.
+
 ---
 
 This project takes it's information from the officially released source code ([Found here](http://pistegamez.proboards.com/thread/543/level-editor-source-codes-available)) and documents it. None of the information was reversed engineered or obtained in other ways.
