@@ -7,7 +7,7 @@
 *   https://github.com/Detea/PK2SDK/tree/master/lib/PHP
 *
 *   Documentation
-*   https://detea.github.io/pk2sdk/doc/php 
+*   https://detea.github.io/pk2sdk/doc/php/PK2Map.html
 */
 class PK2Map {
 
