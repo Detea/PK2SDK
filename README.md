@@ -16,7 +16,7 @@ E.g.:
 The original source code is also provided under the "PK2Source" folder, as it was released by the original creator.
   
   
-The information will be found on this projects wiki (Note: include link) and in the "doc" folder, as PDF files to download for offline use.
+The documentation can be found in the "doc" folder, as PDF files.
 
 ---
 
